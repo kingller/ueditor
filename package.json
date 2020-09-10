@@ -1,16 +1,16 @@
 {
-    "name": "ueditor",
+    "name": "pandora-ueditor",
     "title": "ueditor",
     "description": "UEditor富文本web编辑器",
     "version": "2.0.0",
-    "homepage": "http://ueditor.baidu.com/",
+    "homepage": "https://github.com/kingller/ueditor",
     "author": {
         "name": "f-cube @ FEX",
         "url": "http://fex.baidu.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/fex-team/ueditor.git"
+        "url": "https://github.com/kingller/ueditor.git"
     },
     "keywords": [
         "ueditor",
@@ -19,7 +19,7 @@
         "rich editor"
     ],
     "bugs": {
-        "url": "https://github.com/fex-team/ueditor/issues"
+        "url": "https://github.com/kingller/ueditor/issues"
     },
     "dependencies": {
         "grunt": "~0.4.1",
